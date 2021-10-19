@@ -1,0 +1,50 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  width: 50%;
+  maring: 0 auto;
+  background: #111111;
+}
+.container{
+  width: 360px;
+}
+#InputField {
+  width: 300px;
+  height: 46px;
+  border: 1px solid black;
+  outline: none;
+  font-size: 25px;
+  vertical-align: middle;
+  font-family: 'Noto Sans Mono', monospace;
+}
+#AddTODO{
+  height: 50px;
+  width: 50px;
+  border: 1px solid #000000;
+  vertical-align: middle;
+  font-size: 30px;
+}
+.to-dos{
+  margin-top: 25px;
+  color: #FFFFFF
+}
+.paragraph-styling {
+  margin: 0;
+  cursor: pointer;
+  font-size: 20px;
+}
+h1{
+  color: #FFFFFF;
+}
+
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #1a1a1a;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 6px;
+  padding-left: 10px;
+}
+
